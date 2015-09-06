@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+# add javascript elements
+node-modules
+build

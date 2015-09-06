@@ -1,0 +1,11 @@
+{
+  "name": "test-nan",
+  "version": "0.0.0",
+  "description": "Node.js test-nan",
+  "main": "addon.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "nan": "*"
+  }
+}
